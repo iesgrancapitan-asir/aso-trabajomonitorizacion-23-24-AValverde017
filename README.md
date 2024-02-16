@@ -3,8 +3,7 @@
 # 1  Las herramientas de monitorización de servidores.
        
 ## 1.1  Introducción general.
-## 1.2  Las herramientas  a estudiar
-           
+## 1.2  Las herramientas  a estudia    
 
  # 2  La herramienta XXX
  ## 2.1  Historia
